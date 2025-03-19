@@ -36842,9 +36842,9 @@ H(a){var s,r=null,q=A.b6(a,r,t.l).w,p=A.f1(a,B.cn,t.wr)
 p.toString
 s=A.auz(a)
 return A.aw(r,A.bi(A.a([new A.uN(1,B.Jz,r),new A.cb(B.Kp,this.W8(a,q.a.a<650,p),r)],t.p),B.v,B.r,B.q,B.B),B.j,r,r,r,r,new A.ah(s,0,s,0),1/0)},
-W8(a,b,c){var s="assets/images/apparelte/apparelte.png",r=null,q="footer_copyright",p="https://twitter.com/apparelte",o=t.p
-if(b)return A.bi(A.a([A.hf(s,B.M,B.u,r,r,40,r),B.dL,A.aW(c.aI(q),r,r,r,A.ej(r,r,B.b0,r,r,r,r,r,"Roboto",r,r,16,r,r,B.y,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.dL,A.c3(A.a([this.Gl(p,"assets/images/x.png")],o),B.v,B.bs,B.q)],o),B.v,B.r,B.q,B.B)
-else return A.c3(A.a([A.dc(A.hf(s,B.f9,B.u,r,r,40,r),1,r),A.dc(A.dT(A.aW(c.aI(q),r,r,r,A.ej(r,r,B.b0,r,r,r,r,r,"Roboto",r,r,16,r,r,B.y,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,r),1,r),A.dc(A.c3(A.a([this.Gl(p,"assets/icons/x.png")],o),B.v,B.ey,B.q),1,r)],o),B.v,B.r,B.q)},
+W8(a,b,c){var s="assets/images/apparelte/apparelte.png",r=null,q="footer_copyright",p="https://twitter.com/apparelte",o="assets/icons/x.png",n=t.p
+if(b)return A.bi(A.a([A.hf(s,B.M,B.u,r,r,40,r),B.dL,A.aW(c.aI(q),r,r,r,A.ej(r,r,B.b0,r,r,r,r,r,"Roboto",r,r,16,r,r,B.y,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.dL,A.c3(A.a([this.Gl(p,o)],n),B.v,B.bs,B.q)],n),B.v,B.r,B.q,B.B)
+else return A.c3(A.a([A.dc(A.hf(s,B.f9,B.u,r,r,40,r),1,r),A.dc(A.dT(A.aW(c.aI(q),r,r,r,A.ej(r,r,B.b0,r,r,r,r,r,"Roboto",r,r,16,r,r,B.y,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,r),1,r),A.dc(A.c3(A.a([this.Gl(p,o)],n),B.v,B.ey,B.q),1,r)],n),B.v,B.r,B.q)},
 Gl(a,b){var s=null
 return new A.cb(B.fO,A.py(!1,s,!0,A.hf(b,B.M,B.b0,s,s,24,24),s,!0,s,s,s,s,s,s,s,s,s,new A.a0Q(a),s,s,s,s),s)}}
 A.a0Q.prototype={
